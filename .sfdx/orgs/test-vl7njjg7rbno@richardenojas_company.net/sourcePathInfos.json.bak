@@ -1,0 +1,227 @@
+[
+    [
+        "/Users/richardenojas/Demos/SFDX/Demo1/force-app",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/Demo1/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1517747543628,
+            "changeTime": 1517747543628,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1517747543628,
+            "changeTime": 1517747543628,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main/default",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main/default",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1517747543628,
+            "changeTime": 1517747543628,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1517998912951,
+            "changeTime": 1517998912951,
+            "contentHash": "ff05f994e3f73d8107c2d8fff212a662831dbe06",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main/default/aura/Demo1",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main/default/aura/Demo1",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1517998912954,
+            "changeTime": 1517998912954,
+            "contentHash": "f90d6e0683e3a3353d07fe55a9a4bfe8c1857975",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main/default/aura/Demo1/Demo1.auradoc",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main/default/aura/Demo1/Demo1.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1517998912953,
+            "changeTime": 1517998912953,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main/default/aura/Demo1/Demo1.cmp",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main/default/aura/Demo1/Demo1.cmp",
+            "isDirectory": false,
+            "size": 187,
+            "modifiedTime": 1517999830936,
+            "changeTime": 1517999830936,
+            "contentHash": "3defaad931d759090baa73d6a67b292718295f8a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main/default/aura/Demo1/Demo1.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main/default/aura/Demo1/Demo1.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 237,
+            "modifiedTime": 1517998912951,
+            "changeTime": 1517998912951,
+            "contentHash": "52b417c000053cdaea1f05b4530c349c9abe90a7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main/default/aura/Demo1/Demo1.css",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main/default/aura/Demo1/Demo1.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1517998912953,
+            "changeTime": 1517998912953,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main/default/aura/Demo1/Demo1.design",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main/default/aura/Demo1/Demo1.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1517998912954,
+            "changeTime": 1517998912954,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main/default/aura/Demo1/Demo1.svg",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main/default/aura/Demo1/Demo1.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1517998912953,
+            "changeTime": 1517998912953,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main/default/aura/Demo1/Demo1Controller.js",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main/default/aura/Demo1/Demo1Controller.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1517998912952,
+            "changeTime": 1517998912952,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main/default/aura/Demo1/Demo1Helper.js",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main/default/aura/Demo1/Demo1Helper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1517998912952,
+            "changeTime": 1517998912952,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main/default/aura/Demo1/Demo1Renderer.js",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/Demo1/force-app/main/default/aura/Demo1/Demo1Renderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1517998912953,
+            "changeTime": 1517998912953,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/Demo1",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/Demo1",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1517748739766,
+            "changeTime": 1517748739766,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
